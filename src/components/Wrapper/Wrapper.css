@@ -1,0 +1,11 @@
+.wrapper {
+  background: rgb(8, 0, 0);
+  background-image: url('http://www.powerpointhintergrund.com/uploads/2017/05/1465-american-patriotic-flag-ppt-backgrounds-33.jpeg');
+  height: 100%;
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-around;
+  align-content: flex-start;
+  overflow: auto;
+  padding-bottom: 50px;
+}

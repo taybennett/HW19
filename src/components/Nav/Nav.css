@@ -1,0 +1,25 @@
+
+ul {
+  display: flex;
+  align-items: center;
+  font: 'Times New Roman', Times, serif;
+  color: white;
+  margin: 5px;
+}
+
+#top-sco {
+
+  margin-left: 5px;
+
+}
+
+#cur-sco {
+
+  margin-right: 10px;
+}
+
+#title {
+
+  margin-left: 15px;
+
+}
